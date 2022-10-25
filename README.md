@@ -48,6 +48,9 @@
 
 - 주 관 : 룰루랩
 - 내 용 : 병원진료 예약, 조회 페이지
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/62737638/197747751-3e983841-6a6c-4386-8bad-171097012897.gif)
+
 - 저장소 : https://github.com/hoonjo1/lululab-booking-team10
 - 배포주소 : https://sensational-strudel-86bb09.netlify.app/
 
