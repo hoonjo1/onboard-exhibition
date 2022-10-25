@@ -58,4 +58,6 @@
 
 - 주 관 : 하이퍼 클라우드
 - 내 용 : 컨텐츠 관리 어드민 페이지
+
+![196850588-275067e2-2a48-4a64-80b6-0f86793d0ca4](https://user-images.githubusercontent.com/62737638/197748493-11e71f58-77c4-4880-a36a-ca59a254ef81.gif)
 - 저장소 : https://github.com/hoonjo1/hypercloud-admin-team10
